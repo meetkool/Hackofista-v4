@@ -1,0 +1,25 @@
+.kool1{
+
+    width: 50px;
+    height: 50px;
+    display: inline-block;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+.font-display {
+    font-family: Clash Display, sans-serif;
+  }
+
+  .text-6xl {
+    font-size: 3.75rem;
+    line-height: 1;
+  }
+
+/* .kool2{
+    color: black;
+    font-size: 11px;
+    font-weight: 300;
+    transition: background-color 0.4s, color 0.4s, border-color 0.4s, transform 0.4s; 
+   
+} */
