@@ -28,3 +28,203 @@
   position: relative;
   bottom: 300px;
 }
+.C1:hover{
+  opacity: 1;
+  animation: C1H infinite 1s ease-in-out;
+}
+.C1{
+  animation: C1B 2s ease-in-out;
+}
+@keyframes C1B {
+  0% {
+     fill: #FFC966;
+     stroke-width: "1";
+     opacity: 0.1;
+  }
+  25% {
+   
+    fill: #facf7f;
+    stroke-width: "3";
+    opacity: 0.3;
+  }
+  50% {
+  
+    fill: #fce0ac;
+    stroke-width: "5";
+    opacity: 0.5;
+  }
+  75% {
+    
+    fill: #fef1d9;
+    stroke-width: "7";
+    opacity: 0.7;
+  }
+  100% {
+      stroke-width: "9";
+      opacity: 1;
+    fill: rgb(253, 253, 244);        }
+}
+@keyframes C1H {
+  0% {
+      stroke: none;
+    fill: #FFC966;
+  }
+  50% {
+      stroke: none;
+    fill: #FFC966;
+  }
+  100% {
+      stroke: none;
+    fill: #FFC966;
+  }
+}
+.C2:hover {
+  opacity: 1;
+  animation: C2H infinite 1s ease-in-out;
+}
+.C2{
+  animation: C2B 2s ease-in-out;
+}
+@keyframes C2B {
+  0% {
+     fill: #FF66C4;
+     stroke-width: "1";
+     opacity: 0.1;
+  }
+  25% {
+   
+    fill: #fb72c7;
+    stroke-width: "3";
+    opacity: 0.3;
+  }
+  50% {
+  
+    fill: #fda5db;
+    stroke-width: "5";
+    opacity: 0.5;
+  }
+  75% {
+    
+    fill: #f5c2e1;
+    stroke-width: "7";
+    opacity: 0.7;
+  }
+  100% {
+      stroke-width: "9";
+      opacity: 1;
+    fill: rgb(253, 253, 244);        }
+}
+@keyframes C2H {
+  0% {  
+    stroke: none;
+    fill: #FF66C4;
+  }
+  50% {
+    stroke: none;
+    fill: #FF66C4;
+  }
+  100% {
+    stroke: none;
+    fill: #FF66C4;
+  }
+}
+.A1{
+  animation: A1B 2s ease-in-out;
+}
+.A1:hover{
+  opacity: 1;
+  animation: A2H infinite 1s ease-in-out;
+}
+@keyframes A1B {
+  0% {
+     fill: #FFC966;
+     stroke-width: "1";
+     opacity: 0.1;
+  }
+  25% {
+   
+    fill: #facf7f;
+    stroke-width: "3";
+    opacity: 0.3;
+  }
+  50% {
+  
+    fill: #fce0ac;
+    stroke-width: "5";
+    opacity: 0.5;
+  }
+  75% {
+    
+    fill: #fef1d9;
+    stroke-width: "7";
+    opacity: 0.7;
+  }
+  100% {
+      stroke-width: "9";
+      opacity: 1;
+    fill: rgb(253, 253, 244);        }
+}
+@keyframes A2H {
+  0% {  
+    stroke: none;
+    fill: #FFC966;
+  }
+  50% {
+    stroke: none;
+    fill: #FFC966;
+  }
+  100% {
+    stroke: none;
+    fill: #FFC966;
+  }
+}
+.A2{
+  animation: A2B 2s ease-in-out;
+}
+.A2:hover{
+  opacity: 1;
+  animation: A2H infinite 1s ease-in-out;
+}
+@keyframes A2B {
+  0% {
+     fill: #FFC966;
+     stroke-width: "1";
+     opacity: 0.1;
+  }
+  25% {
+   
+    fill: #facf7f;
+    stroke-width: "3";
+    opacity: 0.3;
+  }
+  50% {
+  
+    fill: #fce0ac;
+    stroke-width: "5";
+    opacity: 0.5;
+  }
+  75% {
+    
+    fill: #fef1d9;
+    stroke-width: "7";
+    opacity: 0.7;
+  }
+  100% {
+      stroke-width: "9";
+      opacity: 1;
+    fill: rgb(253, 253, 244);        }
+}
+@keyframes A2H {
+  0% {  
+    stroke: none;
+    fill: #FFC966;
+  }
+  50% {
+    stroke: none;
+    fill: #FFC966;
+  }
+  100% {
+    stroke: none;
+    fill: #FFC966;
+  }
+}
