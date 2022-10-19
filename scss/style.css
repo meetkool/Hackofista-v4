@@ -23,3 +23,8 @@
     transition: background-color 0.4s, color 0.4s, border-color 0.4s, transform 0.4s; 
    
 } */
+.logo{
+  margin: auto;
+  position: relative;
+  bottom: 300px;
+}
