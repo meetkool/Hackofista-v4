@@ -1,0 +1,1600 @@
+
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Diamond Sponsor/devfolio.svg"
+                      alt="DEVFOLIO">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">DEVFOLIO</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Diamond Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Diamond Sponsor/polygon.svg"
+                      alt="POLYGON">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">POLYGON</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Diamond Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Platinum Sponsor/celo.png"
+                      alt="CELO">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">CELO</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Platinum Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Platinum Sponsor/felvin.png"
+                      alt="FELVIN">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">FELVIN</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Platinum Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Platinum Sponsor/filecoin.png"
+                      alt="FILECOIN">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">FILECOIN</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Platinum Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Platinum Sponsor/koii.png"
+                      alt="KOII">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">KOII</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Platinum Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Platinum Sponsor/tezos.svg"
+                      alt="TEZOS">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">TEZOS</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Platinum Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Blogging Outreach Partner/blogadda.png"
+                      alt="BLOGADDA">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">BLOGADDA</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Blogging Outreach Partner</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Certificate Partner/giveMyCertificate.png"
+                      alt="GIVEMYCERTIFICATE">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">GIVEMYCERTIFICATE</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Certificate Partner</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Community Partner/GDSCIIITL.png"
+                      alt="GDSCIIITL">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">GDSCIIITL</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Community Partner</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Community Partner/TET.png"
+                      alt="TET">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">TET</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Community Partner</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Gold Sponsor/github.png"
+                      alt="GITHUB">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">GITHUB</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Gold Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Media Partner/noticeBard.png"
+                      alt="NOTICEBARD">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">NOTICEBARD</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Media Partner</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Outreach Partner/hoverRobotix.png"
+                      alt="HOVERROBOTIX">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">HOVERROBOTIX</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Outreach Partner</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Outreach Partner/mentorX.png"
+                      alt="MENTORX">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">MENTORX</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Outreach Partner</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/BChainDynamics.png"
+                      alt="BCHAINDYNAMICS">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">BCHAINDYNAMICS</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/codeflow.jpg"
+                      alt="CODEFLOW">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">CODEFLOW</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/codehours.jpg"
+                      alt="CODEHOURS">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">CODEHOURS</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/cSharpCorner.png"
+                      alt="CSHARPCORNER">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">CSHARPCORNER</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/dailybot.png"
+                      alt="DAILYBOT">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">DAILYBOT</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/digitalocean.svg"
+                      alt="DIGITALOCEAN">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">DIGITALOCEAN</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/echoAR.webp"
+                      alt="ECHOAR">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">ECHOAR</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/egghead.png"
+                      alt="EGGHEAD">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">EGGHEAD</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/gfg.png"
+                      alt="GFG">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">GFG</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/Hackathons International.png"
+                      alt="HACKATHONS INTERNATIONAL">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">HACKATHONS INTERNATIONAL</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/interviewCake.png"
+                      alt="INTERVIEWCAKE">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">INTERVIEWCAKE</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/lumos.png"
+                      alt="LUMOS">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">LUMOS</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/portis.svg"
+                      alt="PORTIS">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">PORTIS</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/replit.svg"
+                      alt="REPLIT">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">REPLIT</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/RStudio.png"
+                      alt="RSTUDIO">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">RSTUDIO</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/sashido.png"
+                      alt="SASHIDO">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">SASHIDO</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/the-girl-code.png"
+                      alt="THE-GIRL-CODE">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">THE-GIRL-CODE</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/wolfram.png"
+                      alt="WOLFRAM">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">WOLFRAM</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Past Sponsors/yocket.png"
+                      alt="YOCKET">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">YOCKET</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Past Sponsors</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Silver Sponsor/1password.svg"
+                      alt="1PASSWORD">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">1PASSWORD</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Silver Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Silver Sponsor/balsamiq.png"
+                      alt="BALSAMIQ">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">BALSAMIQ</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Silver Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Silver Sponsor/roseneld.png"
+                      alt="ROSENELD">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">ROSENELD</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Silver Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Silver Sponsor/taskade.png"
+                      alt="TASKADE">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">TASKADE</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Silver Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Silver Sponsor/termiusdb.png"
+                      alt="TERMIUSDB">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">TERMIUSDB</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Silver Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Silver Sponsor/voiceflow.svg"
+                      alt="VOICEFLOW">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">VOICEFLOW</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Silver Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
+  <li class="grid__item showcase__card">
+
+                <div class="showcase__card__picture">
+                  <a href="" target="_blank" rel="noopener noreferrer">
+              
+                    <img class="partial-image"
+                      src="./assets/imgs/sponsors/Silver Sponsor/xyz.png"
+                      alt="XYZ">
+              
+                  </a>
+                </div>
+              
+                <div class=" showcase__card__footer">
+                  <div>
+              
+                    <a href="" target="_blank">
+                      <h2 class="showcase__card__footer__title">XYZ</h2>
+                    </a>
+              
+              
+                    <a href="" target="_blank">
+              
+                      <h3 class="showcase__card__footer__author">Silver Sponsor</h3>
+              
+                    </a>
+              
+              
+                  </div>
+                  <a class="grid__item__link link--view" target="_blank" href="">
+                    View
+                    <svg viewBox="0 0 15 15" aria-hidden="true" class="icon--barba">
+                      <!-- <use attr.xlink:href="assets/svg/sprite.svg#barba-external"></use> -->
+                      <use xlink:href="#barba-external"></use>
+                    </svg>
+                  </a>
+                </div>
+              
+              </li>
+  
